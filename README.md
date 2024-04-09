@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Trabalho com backend e QA tester
 - 🌱 Estudando Full Stack Development na Tera
 - 😄 Pronouns: ela/dela
 
