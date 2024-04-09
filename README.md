@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com backend e QA tester
-- 🌱 Estudando Full Stack Development na Tera
+- 🌱 Estudando...
 - 😄 Pronouns: ela/dela
 
 <div align="center">
